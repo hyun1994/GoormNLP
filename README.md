@@ -12,4 +12,4 @@
 # KoNMT
 * Train, Dev, Test, Test2 EDA
 * Modeling 수정
-* PPT 
+* PPT 발표준비
