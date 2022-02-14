@@ -11,5 +11,5 @@
 
 # KoNMT
 * Train, Dev, Test, Test2 EDA
-* Modeling 수정
+* Aihub 데이터 학습 후 주어진 데이터 
 * PPT 발표준비
