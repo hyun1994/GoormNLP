@@ -5,7 +5,7 @@
 * PPT 발표준비 및 발표
 
 # KoMRC
-* Augment(Aihub + train.json, pipeline) 적용
+* 데이터 추가(Aihub + train.json) 적용
 * Modeling 및 Hyperparameter 변경
 * PPT 발표준비
 
