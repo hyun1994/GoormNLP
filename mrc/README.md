@@ -1,4 +1,4 @@
-# Machine Reading Comprehension
+# 구름 AI 자연어처리 전문가 과정
 
 📌 소개
 --
