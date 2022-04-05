@@ -42,7 +42,7 @@
 💡 프로젝트에서 맡은 역할
 --
 * Baseline code는 Overfitting이 발생하도록 제작된 코드라서 Overfitting 방지하기 위해서 AiHub 데이터 추가함
-* 주어진 Baseline이 Bert For Question Answering 모델을 간략하게 만든 모델에 구글에  모델을 참고하고 attention is all need 논문을 통해 보완으로 GLUE Score를 131에서 15까지 성능 개선
+* 주어진 Baseline이 Bert For Question Answering 모델을 간략하게 만든 모델에 구글에  모델을 참고하고 attention is all need 논문을 통해 보완으로 Score를 131에서 15까지 성능 개선
 * Batch size, Learning rate, 등 Hyperparameter 변경을 통해 15에서 5.63까지 성능 개선
 
 💡 자체 평가 및 보완 
